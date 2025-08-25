@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: my-dotnet-api
+    runtime: docker
+    plan: free
+    envVars:
+      - key: DOTNET_VERSION
+        value: 8.0
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
