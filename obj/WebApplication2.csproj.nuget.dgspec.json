@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akash.settukannu\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
+    "D:\\taxi-application-api-backend\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akash.settukannu\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
+    "D:\\taxi-application-api-backend\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akash.settukannu\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "D:\\taxi-application-api-backend\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\akash.settukannu\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "D:\\taxi-application-api-backend\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\akash.settukannu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akash.settukannu\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "D:\\taxi-application-api-backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
